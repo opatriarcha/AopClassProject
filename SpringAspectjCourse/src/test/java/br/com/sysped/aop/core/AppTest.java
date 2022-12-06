@@ -1,4 +1,4 @@
-package com.mkyong.core;
+package br.com.sysped.aop.core;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
