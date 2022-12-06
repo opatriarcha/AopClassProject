@@ -1,0 +1,4 @@
+br/com/sysped/aop/core/App.class
+br/com/sysped/aop/service/impl/CustomerServiceImpl.class
+br/com/sysped/aop/aspect/LoggingAspect.class
+br/com/sysped/aop/service/CustomerService.class
