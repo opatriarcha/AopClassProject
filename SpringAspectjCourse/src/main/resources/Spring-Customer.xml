@@ -9,7 +9,7 @@
 	<aop:aspectj-autoproxy />
 
         <!--beans-->
-	<bean id="customerBo" class="br.com.sysped.aop.service.impl.CustomerServiceImpl" />
+	<bean id="customerService" class="br.com.sysped.aop.service.impl.CustomerServiceImpl" />
 
 	<!-- Aspect -->
 	<bean id="logAspect" class="br.com.sysped.aop.aspect.LoggingAspect" />
